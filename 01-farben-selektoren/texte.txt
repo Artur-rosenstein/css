@@ -1,0 +1,26 @@
+Überschrift / Heading:
+Farbenwerkstatt
+
+Absatz / Paragraph 1:
+CSS gestaltet unsere Webseite. Dieser Absatz hat die normale Textfarbe auf dem dunklen Hintergrund.
+
+Absatz / Paragraph 2:
+Dieser Absatz bekommt eine helle Fläche und rote Schrift. Eine Klasse macht das möglich.
+
+Absatz / Paragraph 3:
+Mit CSS können wir wichtige Wörter mitten in einem Satz hervorheben.
+
+Absatz / Paragraph 4:
+Dieser violette Absatz wird über eine eigene Klasse gestaltet. Seine Schrift bleibt hellgrau.
+
+Absatz / Paragraph 5:
+Klassen lassen sich wiederverwenden. Auch hier fallen wichtige Wörter sofort auf.
+
+Listeneintrag / List entry 1:
+Ein Listeneintrag mit der normalen Textfarbe.
+
+Listeneintrag / List entry 2:
+Auch dieser Listeneintrag nutzt die helle Klasse.
+
+Listeneintrag / List entry 3:
+In einer Liste können wichtige Wörter ebenfalls auffallen.

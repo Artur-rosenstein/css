@@ -1,0 +1,5 @@
+Überschrift / Heading:
+Breitenwerkstatt
+
+Text – für alle drei Absätze kopieren / Text – copy into all three paragraphs:
+Dieser Absatz hat eine eigene Breite. Sein Text bricht automatisch um, sobald eine Zeile voll ist. Eine schmalere Fläche führt bei gleicher Schriftgröße zu mehr Zeilen.

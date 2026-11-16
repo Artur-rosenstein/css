@@ -1,0 +1,8 @@
+Überschrift / Heading:
+Schriftwerkstatt
+
+Beispielsatz – für alle drei Absätze kopieren / Example sentence – copy into all three paragraphs:
+Mit CSS kann ich die Schriftgröße verändern.
+
+Lesetext – für Absatz 4 / Reading text – for paragraph 4:
+Gut lesbarer Text braucht eine passende Schriftgröße und genügend Abstand zwischen den Zeilen. Mit CSS kann ich verschiedene Einstellungen ausprobieren. So finde ich eine Gestaltung, bei der ich auch längere Absätze angenehm lesen kann.
